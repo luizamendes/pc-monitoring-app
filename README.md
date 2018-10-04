@@ -1,0 +1,1 @@
+Simple PC monitoring software, written in Python, using PSUtil, CPUInfo and Pygame modules.
